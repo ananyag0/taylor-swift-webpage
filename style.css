@@ -1,0 +1,59 @@
+p {
+    background-color: whitesmoke;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+  
+ .desc {
+    padding: 30px;
+ }
+  
+ h1 {
+    padding: 20px;
+    text-align: center;
+    color: teal;
+ }
+
+ h1 {
+    padding: 20px;
+    background-color: lightsalmon;
+    text-align: center;
+    color: white;
+ }
+  
+ img {
+    height: 5cm;
+    border-radius: 8px;
+   
+ }
+  
+ .music-button {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+ }
+  
+ .fun-facts-button {
+    color: darkcyan;
+ }
+
+ .history-button {
+    color: purple;
+ }
+
+ u1 {
+    background-color: lightsalmon;
+    padding: 20px;
+ }
+  
+ html {
+   background-color: white;
+    padding: 4cm;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+  
+ 
