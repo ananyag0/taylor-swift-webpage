@@ -14,12 +14,7 @@ p {
  .desc {
     padding: 30px;
  }
-  
- h1 {
-    padding: 20px;
-    text-align: center;
-    color: teal;
- }
+
 
  h1 {
     padding: 20px;
@@ -117,10 +112,26 @@ p {
     font-style: italic;
     color: black;
  }
+
  
  #funfacts {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+ }
+
+ #midnights {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+ }
+
+ #main-images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
  }
