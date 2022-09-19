@@ -79,6 +79,14 @@ p {
     font-size: 16px;
  }
 
+ .main-button {
+    background-color: lightsalmon; 
+    color: white;
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+    font-size: 16px;
+ }
  ul {
     background-color: whitesmoke;
     padding: 20px;
