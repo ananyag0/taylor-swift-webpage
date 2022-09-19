@@ -1,3 +1,10 @@
+
+.title {
+    font-size: large;
+    font-weight: bold;
+    font-style: oblique;
+    color: lightsalmon
+}
 p {
     background-color: whitesmoke;
     font-size: medium;
@@ -20,33 +27,62 @@ p {
     text-align: center;
     color: white;
  }
+
+ h2 {
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    color: lightsalmon;
+ }
   
  img {
     height: 5cm;
     border-radius: 8px;
    
  }
+ 
+ .buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+ }
   
  .music-button {
-    background-color: #4CAF50; /* Green */
+    background-color: lightsalmon; 
     color: white;
-    padding: 15px;
+    padding: 30px;
+    margin: 20px;
     text-align: center;
-    display: inline-block;
     font-size: 16px;
  }
   
  .fun-facts-button {
-    color: darkcyan;
+    background-color: lightsalmon; 
+    color: white;
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+    font-size: 16px;
  }
 
  .history-button {
-    color: purple;
+    background-color: lightsalmon; 
+    color: white;
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+    font-size: 16px;
  }
 
- u1 {
-    background-color: lightsalmon;
+ ul {
+    background-color: whitesmoke;
     padding: 20px;
+    border-style:ridge;
+    border-width: thick;
+    border-color: lightsalmon;
+    list-style-type:circle;
  }
   
  html {
@@ -55,5 +91,11 @@ p {
     color: black;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
-  
+
+ .img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
  
