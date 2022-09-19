@@ -30,7 +30,7 @@ p {
 
  h2 {
     padding: 20px;
-    background-color: white;
+    background-color: whitesmoke;
     text-align: center;
     color: lightsalmon;
  }
@@ -39,6 +39,14 @@ p {
     height: 5cm;
     border-radius: 8px;
    
+ }
+ 
+ #facts {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
  }
  
  .buttons{
@@ -98,4 +106,21 @@ p {
     justify-content: center;
     align-items: center;
  }
+
+ #songs {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+ }
+ .italics {
+    font-style: italic;
+    color: black;
+ }
  
+ #funfacts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
