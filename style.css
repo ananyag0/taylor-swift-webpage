@@ -21,18 +21,22 @@ p {
     background-color: lightsalmon;
     text-align: center;
     color: white;
+   
  }
 
  h2 {
     padding: 20px;
-    background-color: whitesmoke;
+    background-color: white;
     text-align: center;
     color: lightsalmon;
+    border-style:solid;
+    border-color: lightsalmon;
  }
   
  img {
     height: 5cm;
     border-radius: 8px;
+    margin: 10px;
    
  }
  
